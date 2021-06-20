@@ -33,3 +33,14 @@ plt.subplot(1,2,2)
 plt.title('Volume VS CO2')
 plt.scatter(v,y)
 plt.show()
+
+'''
+OUTPUT:
+Enter the weight of your car and the volume of your engine: 
+        Enter the weight of the car: 2500
+
+        Enter the volume of the engine: 1300
+The predicted CO2 emission is:  [108.71892225]
+The coefficient of the weight and volume respectively are:  [0.00755095 0.00780526]
+
+'''
